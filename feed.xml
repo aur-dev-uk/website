@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2022-10-15T21:41:31+01:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">aur-dev.uk</title>
+  
+
+  
+    <subtitle>Automation / Dev-Git Ops / Python / Linux Engineer</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project 3</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 3" />
+      <published>2022-03-18T00:00:00+00:00</published>
+      <updated>2022-03-18T00:00:00+00:00</updated>
+      <id>http://localhost:4000/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Dev Ops" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2022-02-18T00:00:00+00:00</published>
+      <updated>2022-02-18T00:00:00+00:00</updated>
+      <id>http://localhost:4000/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Consultation" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 1</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2022-01-18T00:00:00+00:00</published>
+      <updated>2022-01-18T00:00:00+00:00</updated>
+      <id>http://localhost:4000/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Technological Archaeology" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
